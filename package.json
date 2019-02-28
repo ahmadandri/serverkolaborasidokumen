@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "config": "^2.0.1",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.4",
+    "socket-server": "0.0.4",
+    "socket.io": "^2.1.1",
+    "cors": "^2.8.5"
+  },
+  "author": "ahmad",
+  "license": "ISC",
+  "engines": {
+    "node": "v9.6.1",
+    "npm": "6.5.0"
+  }
+}
